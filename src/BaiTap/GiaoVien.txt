@@ -1,0 +1,9 @@
+Nguyễn Văn A # 1980 # Hà Nội # 100 Cầu Giấy # 1999 # tự nhiên
+Nguyễn Văn B # 1980 # Huế # 70 ABC # 2001 # xã hội
+Nguyễn Văn C # 1972 # Hải Phòng # 180 Kiệt 9 # 1999 # tự nhiên
+Nguyễn Văn D # 1980 # Hồ Chí Minh # 135 D2 # 2002 # xã hội
+Nguyễn Văn E # 1979 # Nghệ An # 70 QL1 # 2003 # tự nhiên
+Nguyễn Văn F # 1995 # Quảng Ninh # 89 LKI # 2004 # xã hội
+Nguyễn Văn Toàn # 1990 # Bà Rịa # 234 OUI # 2017 # tự nhiên
+Nguyễn Văn Hùng # 1995 # Bà Rịa # 234 OUI # 2019 # xã hội
+Nguyễn Văn Cao # 1990 # Bà Rịa # 234 OUI # 2018 # tự nhiên

@@ -1,0 +1,5 @@
+Nguyễn Văn M # 1987 # Hà Nội # 100 Cầu Giấy # 9 # 9 # 9
+Nguyễn Văn G # 1996 # Quảng Nam # 32 UIO # 8 # 8 # 8
+Nguyễn Văn H # 1993 # Vũng Tàu # 80 LKJ # 6 # 7 # 8
+Nguyễn Văn K # 1990 # Hà Nội # 80 ASD # 9 # 8 # 3
+Nguyễn Văn L # 1997 # Buôn Mê Thuật # Kiệt 3 # 3 # 3 # 4
